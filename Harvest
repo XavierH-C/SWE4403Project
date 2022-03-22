@@ -1,0 +1,51 @@
+{
+
+  "id": { 
+
+    "S": "50da7d73-acff-43e4-962b-ccc1b81df675" 
+
+  }, 
+
+  "__typename": { 
+
+    "S": "Harvest" 
+
+  }, 
+
+  "harvestCroplandId": { 
+
+    "S": "32afd847-f7ec-4d36-9d26-e30ff7337e00" 
+
+  }, 
+
+  "season": { 
+
+    "S": "Fall" 
+
+  }, 
+
+  "updatedAt": { 
+
+    "S": "2022-02-08T17:58:10.828Z" 
+
+  }, 
+
+  "cultivar": { 
+
+    "S": "Russet Burbank" 
+
+  }, 
+
+  "createdAt": { 
+
+    "S": "2022-02-08T17:58:10.828Z" 
+
+  }, 
+
+  "name": { 
+
+    "S": "Blanc à Berth Fall Harvest" 
+
+  } 
+
+}
