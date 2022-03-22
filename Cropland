@@ -1,0 +1,69 @@
+{ 
+
+  "id": { 
+
+    "S": "4f7f9467-f865-411f-b1be-ca6da1acc2bf" 
+
+  }, 
+
+  "__typename": { 
+
+    "S": "Cropland" 
+
+  }, 
+
+  "centerLong": { 
+
+    "N": "-67.76995" 
+
+  }, 
+
+  "centerLat": { 
+
+    "N": "47.1067463" 
+
+  }, 
+
+  "updatedAt": { 
+
+    "S": "2022-02-15T20:26:19.716Z" 
+
+  }, 
+
+  "acres": { 
+
+    "N": "30.5" 
+
+  }, 
+
+  "cultivar": { 
+
+    "S": "Russet Burbank" 
+
+  }, 
+
+  "createdAt": { 
+
+    "S": "2022-02-07T20:54:21.472Z" 
+
+  }, 
+
+  "croplandFarmId": { 
+
+    "S": "fe246c64-3f2e-48a2-b7f3-d2868711f5c1" 
+
+  }, 
+
+  "crop": { 
+
+    "S": "potatoes" 
+
+  }, 
+
+  "name": { 
+
+    "S": "Charles Cyr" 
+
+  } 
+
+} 
