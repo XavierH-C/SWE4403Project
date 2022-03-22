@@ -1,0 +1,51 @@
+{ 
+
+  "id": { 
+
+    "S": "4c48bb9a-f011-4477-bb32-17980c1ddd04" 
+
+  }, 
+
+  "growthStageHighId": { 
+
+    "S": "f4927b44-8735-4f0e-8bbd-6706e4d9996f" 
+
+  }, 
+
+  "__typename": { 
+
+    "S": "GrowthStage" 
+
+  }, 
+
+  "growthStageLowId": { 
+
+    "S": "af2bff33-c76b-4376-ac6a-5f309c8282ed" 
+
+  }, 
+
+  "updatedAt": { 
+
+    "S": "2022-02-24T17:11:13.383Z" 
+
+  }, 
+
+  "createdAt": { 
+
+    "S": "2022-02-24T17:11:13.383Z" 
+
+  }, 
+
+  "growthStageCriticalLevelsId": { 
+
+    "S": "e0ad98f4-4d20-4fa5-bf90-3eb9fe14e636" 
+
+  }, 
+
+  "daysSinceEmergence": { 
+
+    "N": "60" 
+
+  } 
+
+}
