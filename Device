@@ -1,0 +1,75 @@
+{ 
+
+  "id": { 
+
+    "S": "020f39c3-b6ca-4052-b863-21e2090b5508" 
+
+  }, 
+
+  "__typename": { 
+
+    "S": "Device" 
+
+  }, 
+
+  "deviceVersion": { 
+
+    "S": "2.12" 
+
+  }, 
+
+  "createdAt": { 
+
+    "S": "2021-11-18T14:53:05.914Z" 
+
+  }, 
+
+  "name": { 
+
+    "S": "Our bad scanner" 
+
+  }, 
+
+  "softwareVersion": { 
+
+    "S": "1.88" 
+
+  }, 
+
+  "updatedAt": { 
+
+    "S": "2021-11-18T14:53:05.914Z" 
+
+  }, 
+
+  "manufacturerName": { 
+
+    "S": "Michelen" 
+
+  }, 
+
+  "testDevice": { 
+
+    "BOOL": false 
+
+  }, 
+
+  "serialNumber": { 
+
+    "S": "1222566" 
+
+  }, 
+
+  "deviceFarmId": { 
+
+    "S": "01c9eae2-671b-4547-9385-52302399ae32" 
+
+  }, 
+
+  "productName": { 
+
+    "S": "Scantron 100" 
+
+  } 
+
+}
