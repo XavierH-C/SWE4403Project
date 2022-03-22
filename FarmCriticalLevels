@@ -1,0 +1,39 @@
+{ 
+
+  "id": { 
+
+    "S": "dd20085f-5011-48b2-9847-d3efbc53bd63" 
+
+  }, 
+
+  "__typename": { 
+
+    "S": "FarmCriticalLevel" 
+
+  }, 
+
+  "farmCriticalLevelCriticalLevelId": { 
+
+    "S": "e0ad98f4-4d20-4fa5-bf90-3eb9fe14e636" 
+
+  }, 
+
+  "updatedAt": { 
+
+    "S": "2022-03-17T20:17:16.180Z" 
+
+  }, 
+
+  "createdAt": { 
+
+    "S": "2022-03-17T20:17:16.180Z" 
+
+  }, 
+
+  "farmCriticalLevelFarmId": { 
+
+    "S": "fe246c64-3f2e-48a2-b7f3-d2868711f5c1" 
+
+  } 
+
+}
