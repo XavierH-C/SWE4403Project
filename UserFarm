@@ -1,0 +1,39 @@
+{ 
+
+  "id": { 
+
+    "S": "b301aa31-e0de-4652-ab05-71a55b75ae86" 
+
+  }, 
+
+  "__typename": { 
+
+    "S": "UserFarm" 
+
+  }, 
+
+  "userFarmFarmId": { 
+
+    "S": "fe246c64-3f2e-48a2-b7f3-d2868711f5c1" 
+
+  }, 
+
+  "updatedAt": { 
+
+    "S": "2022-02-01T17:42:29.456Z" 
+
+  }, 
+
+  "createdAt": { 
+
+    "S": "2022-02-01T17:42:29.456Z" 
+
+  }, 
+
+  "userFarmUserId": { 
+
+    "S": "b8737244-5483-459c-8aa0-a2f49d98dde6" 
+
+  } 
+
+}
