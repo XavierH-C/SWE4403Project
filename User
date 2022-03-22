@@ -1,0 +1,51 @@
+{ 
+
+  "id": { 
+
+    "S": "bf24a213-a8d9-48fa-8395-9d61ba9b3b1f" 
+
+  }, 
+
+  "__typename": { 
+
+    "S": "User" 
+
+  }, 
+
+  "admin": { 
+
+    "BOOL": false 
+
+  }, 
+
+  "updatedAt": { 
+
+    "S": "2022-03-16T19:52:18.841Z" 
+
+  }, 
+
+  "createdAt": { 
+
+    "S": "2022-03-16T19:52:18.841Z" 
+
+  }, 
+
+  "username": { 
+
+    "S": "dom104" 
+
+  }, 
+
+  "email": { 
+
+    "S": "dom@hotmail.com" 
+
+  }, 
+
+  "name": { 
+
+    "S": "Dom" 
+
+  } 
+
+}
