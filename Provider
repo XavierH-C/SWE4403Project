@@ -1,0 +1,47 @@
+{ 
+
+  "id": { 
+
+    "S": "7baa0c63-c61a-4cb8-ac0b-219e5f6d8362" 
+
+  }, 
+
+  "__typename": { 
+
+    "S": "Provider" 
+
+  }, 
+
+  "endCustomers": { 
+
+    "L": [ 
+
+      { 
+
+        "S": "Sheep" 
+
+      } 
+
+    ] 
+
+  }, 
+
+  "updatedAt": { 
+
+    "S": "2021-11-18T14:46:56.295Z" 
+
+  }, 
+
+  "createdAt": { 
+
+    "S": "2021-11-18T14:46:56.295Z" 
+
+  }, 
+
+  "name": { 
+
+    "S": "Big Farma" 
+
+  } 
+
+}
