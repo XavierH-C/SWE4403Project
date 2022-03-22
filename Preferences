@@ -1,0 +1,45 @@
+{ 
+
+  "id": { 
+
+    "S": "46984d69-1100-4cff-b6ce-7b57c56bdb4e" 
+
+  }, 
+
+  "__typename": { 
+
+    "S": "Preferences" 
+
+  }, 
+
+  "updatedAt": { 
+
+    "S": "2022-01-31T17:23:00.335Z" 
+
+  }, 
+
+  "createdAt": { 
+
+    "S": "2022-01-31T17:23:00.335Z" 
+
+  }, 
+
+  "preferencesUserId": { 
+
+    "S": "7cd29ebf-85d5-4abe-8429-c321e0e0c73b" 
+
+  }, 
+
+  "language": { 
+
+    "S": "English" 
+
+  }, 
+
+  "colorScheme": { 
+
+    "S": "Standard" 
+
+  } 
+
+}
