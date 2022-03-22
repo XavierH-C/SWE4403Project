@@ -1,0 +1,51 @@
+{ 
+
+  "id": { 
+
+    "S": "83eea56a-7afe-4c8e-bb50-34b0126a7ffd" 
+
+  }, 
+
+  "__typename": { 
+
+    "S": "Farm" 
+
+  }, 
+
+  "active": { 
+
+    "BOOL": false 
+
+  }, 
+
+  "farmProviderId": { 
+
+    "S": "7baa0c63-c61a-4cb8-ac0b-219e5f6d8362" 
+
+  }, 
+
+  "updatedAt": { 
+
+    "S": "2022-01-11T19:32:28.724Z" 
+
+  }, 
+
+  "createdAt": { 
+
+    "S": "2021-12-01T21:18:59.118Z" 
+
+  }, 
+
+  "region": { 
+
+    "S": "Northwest" 
+
+  }, 
+
+  "name": { 
+
+    "S": "2nd Farm" 
+
+  } 
+
+}
